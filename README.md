@@ -92,14 +92,4 @@ La base de données stockera les informations suivantes :
 
 ---
 
-## Livrables
-1. **Code Source Complet** : Contient le frontend et le backend.  
-2. **Documentation** :  
-   - Explication de l'architecture du projet.  
-   - Étapes pour installer et configurer le projet.  
-3. **Schéma de Base de Données** : Représentation des relations entre les entités.  
-4. **Présentation Finale** : Démonstration complète de l'application.  
-
----
-
 Ce projet est conçu pour offrir une expérience fluide et performante à la fois pour les propriétaires et les clients, tout en respectant les normes modernes de développement logiciel.
